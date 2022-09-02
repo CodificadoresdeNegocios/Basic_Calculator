@@ -56,6 +56,14 @@ html, body{
     color: #fff;
 }
 
+.h108{
+    height: 108px;
+}
+
+.w108{
+    width: 108px;
+}
+
 .button:hover{
     background-color:black;
 }
